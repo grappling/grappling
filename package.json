@@ -1,0 +1,16 @@
+{
+  "name": "grappling",
+  "version": "0.1.0",
+  "description": "Collection of useful hooks for React applications",
+  "main": "hooks.js",
+	"sideEffects": false,
+  "scripts": {
+    "test": "exit 0"
+  },
+  "keywords": [
+    "React",
+    "hooks"
+  ],
+  "author": "Tyler Williams <tyler.williams.it@gmail.com>",
+  "license": "MIT"
+}
